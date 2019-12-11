@@ -9,6 +9,8 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    // I am writing this mindless message just for git test.
 
     var images = [UIImage]()
     var currentIndex = 0
